@@ -10,9 +10,6 @@ import java.util.List;
 
 import models.Direction;
 
-/**
- * Created by Abdullah Alali ZOUAG on 4/28/2018.
- */
 public class DirectionDAO {
 
     private SQLiteDatabase db;
