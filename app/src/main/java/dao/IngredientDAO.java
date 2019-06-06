@@ -10,9 +10,6 @@ import java.util.List;
 
 import models.Ingredient;
 
-/**
- * Created by Abdullah Alali ZOUAG on 4/28/2018.
- */
 public class IngredientDAO {
 
     private SQLiteDatabase db;
